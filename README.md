@@ -2,9 +2,9 @@
 
 ### `npm start`
 
+#dependency확인
 
-[http://localhost:3000]
-(http://localhost:3000)
+http://localhost:3000
 
 ### `npm run build`
 
